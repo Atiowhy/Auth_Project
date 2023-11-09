@@ -191,7 +191,7 @@ const Register = () => {
                   Have account?
                   <span>
                     <Link
-                      to={'/login'}
+                      to={'/'}
                       className="text-decoration-none ms-1 text-warning"
                     >
                       Log In
